@@ -1,0 +1,29 @@
+[33mcommit 657c8bbb18cf2edf3819e99645f664f2e60e3ddb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32missue-1[m[33m)[m
+Author: CedricLittman <cedric@littman.me.uk>
+Date:   Wed Mar 13 21:44:00 2024 +0000
+
+    Change to test connection
+
+[33mcommit 5680d015a7913e2d75016f21132ed38dc4bed757[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/issue-1[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: CedricLittman <cedric@littman.me.uk>
+Date:   Wed Mar 13 17:00:44 2024 +0000
+
+    Create git_log.JPG
+
+[33mcommit 0ac8ec565f00c631441b4dd8958575d48eabfbdb[m
+Author: CedricLittman <cedric@littman.me.uk>
+Date:   Wed Mar 13 16:57:19 2024 +0000
+
+    Changes as specified
+
+[33mcommit 029e03073d9f1924baf6a2e98e9ffbab72ddd4ea[m
+Author: CedricLittman <cedric@littman.me.uk>
+Date:   Wed Mar 13 16:10:17 2024 +0000
+
+    Create helloWorld.py
+
+[33mcommit cc85256cb26aa12dcf99f55f7548b074f47d2f92[m
+Author: CedricLittman <cedric@littman.me.uk>
+Date:   Wed Mar 13 16:06:34 2024 +0000
+
+    Initial commit
